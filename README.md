@@ -9,7 +9,7 @@ Article Content Table
 *  Linear Transformation
 *  Vectors and Operations
   * 1 Dimensional Vector
-  * ![Uploading one_dim.png…]()
+  * ![one_dim](https://user-images.githubusercontent.com/29928837/181904306-7872f9b0-38e2-4093-b39a-e4df3d207b13.png)
   * 2 Dimensional Vector
   * ![2dim](https://user-images.githubusercontent.com/29928837/181903711-1346b1c5-2c2c-466e-81fb-5c36b9d8dca0.png)
   * 3 Dimensional Vector
