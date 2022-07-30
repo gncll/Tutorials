@@ -27,6 +27,7 @@ Article Content Table
   * Vector Dot Python Implementation
 * Matrix Operations
   * Vector Matrix Multipication
+  * ![math-20220730 (5)](https://user-images.githubusercontent.com/29928837/181903659-20638684-7864-4273-988a-3a2ed4ddf937.png)
   * Vector Matrix Multiplication Formula
   * Vector Matrix Python Implementation
   * Matrix Scalar Multiplication
