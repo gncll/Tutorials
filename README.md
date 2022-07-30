@@ -1,7 +1,7 @@
 # Linear Algebra for Machine Learning
 Medium article materials.
 
-[Visit here for article](https://img.shields.io/github/license/gncll/body-calculator)
+[Visit here for article](https://medium.com/@geencay/linear-algebra-a-z-for-machine-learning-68dadcd0b757)
 
 Article Content Table
 
